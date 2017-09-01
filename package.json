@@ -1,0 +1,29 @@
+{
+  "name": "fancylogger",
+  "version": "1.0.0",
+  "description": "A logger which fancies the log",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drtaiki/FancyLog.git"
+  },
+  "keywords": [
+    "fancy",
+    "logger",
+    "fancy-log",
+    "log"
+  ],
+  "author": "Dr. Taiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drtaiki/FancyLog/issues"
+  },
+  "homepage": "https://github.com/drtaiki/FancyLog#readme"
+}
